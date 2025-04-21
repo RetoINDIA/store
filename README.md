@@ -47,8 +47,8 @@ Each product on the website includes CTA buttons that **redirect users to WhatsA
 
 If you're interested in any product or have custom décor needs, reach out to us via:
 
-- WhatsApp: [Click to Chat](https://wa.me/your-number-here)
-- Instagram: [@reto.india](https://instagram.com/reto.india)
+- WhatsApp: (https://www.whatsapp.com/catalog/918777760377/)
+- Instagram: [https://www.instagram.com/retoindia.official/)
 
 ---
 
