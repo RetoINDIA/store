@@ -1,16 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>https://retoindia.github.io/store/</loc>
-  <lastmod>2025-04-26T15:08:53+00:00</lastmod>
+  <loc>http://retoindia.github.io/./</loc>
 </url>
-
-
+<url>
+  <loc>http://retoindia.github.io/./collections</loc>
+</url>
+<url>
+  <loc>http://retoindia.github.io/./contact</loc>
+</url>
+<url>
+  <loc>http://retoindia.github.io/./how-to-order</loc>
+</url>
+<url>
+  <loc>http://retoindia.github.io/./collections/keychains</loc>
+</url>
+<url>
+  <loc>http://retoindia.github.io/./collections/radiance</loc>
+</url>
+<url>
+  <loc>http://retoindia.github.io/./collections/pots</loc>
+</url>
+<url>
+  <loc>http://retoindia.github.io/./collections/macrame</loc>
+</url>
+<url>
+  <loc>http://retoindia.github.io/./collections/meenakari</loc>
+</url>
+<url>
+  <loc>http://retoindia.github.io/./collections/wall-decor</loc>
+</url>
+<url>
+  <loc>http://retoindia.github.io/tel:+918777760377</loc>
+</url>
+<url>
+  <loc>http://retoindia.github.io/</loc>
+</url>
 </urlset>
