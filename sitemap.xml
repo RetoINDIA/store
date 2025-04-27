@@ -1,39 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>http://retoindia.github.io/./</loc>
-</url>
-<url>
-  <loc>http://retoindia.github.io/./collections</loc>
-</url>
-<url>
-  <loc>http://retoindia.github.io/./contact</loc>
-</url>
-<url>
-  <loc>http://retoindia.github.io/./how-to-order</loc>
-</url>
-<url>
-  <loc>http://retoindia.github.io/./collections/keychains</loc>
-</url>
-<url>
-  <loc>http://retoindia.github.io/./collections/radiance</loc>
-</url>
-<url>
-  <loc>http://retoindia.github.io/./collections/pots</loc>
-</url>
-<url>
-  <loc>http://retoindia.github.io/./collections/macrame</loc>
-</url>
-<url>
-  <loc>http://retoindia.github.io/./collections/meenakari</loc>
-</url>
-<url>
-  <loc>http://retoindia.github.io/./collections/wall-decor</loc>
-</url>
-<url>
-  <loc>http://retoindia.github.io/tel:+918777760377</loc>
-</url>
-<url>
-  <loc>http://retoindia.github.io/</loc>
-</url>
+  <url>
+    <loc>http://retoindia.github.io/</loc> 
+    <!-- Optional: <lastmod>YYYY-MM-DD</lastmod> -->
+    <!-- Optional: <changefreq>daily/weekly/monthly</changefreq> -->
+    <!-- Optional: <priority>1.0</priority> -->
+  </url>
+  <url>
+    <loc>http://retoindia.github.io/collections</loc>
+    <!-- Optional tags -->
+  </url>
+  <url>
+    <loc>http://retoindia.github.io/contact</loc>
+    <!-- Optional tags -->
+  </url>
+  <url>
+    <loc>http://retoindia.github.io/how-to-order</loc>
+    <!-- Optional tags -->
+  </url>
+  <url>
+    <loc>http://retoindia.github.io/collections/keychains</loc>
+    <!-- Optional tags -->
+  </url>
+  <url>
+    <loc>http://retoindia.github.io/collections/radiance</loc>
+    <!-- Optional tags -->
+  </url>
+  <url>
+    <loc>http://retoindia.github.io/collections/pots</loc>
+    <!-- Optional tags -->
+  </url>
+  <url>
+    <loc>http://retoindia.github.io/collections/macrame</loc>
+    <!-- Optional tags -->
+  </url>
+  <url>
+    <loc>http://retoindia.github.io/collections/meenakari</loc>
+    <!-- Optional tags -->
+  </url>
+  <url>
+    <loc>http://retoindia.github.io/collections/wall-decor</loc>
+    <!-- Optional tags -->
+  </url>
 </urlset>
